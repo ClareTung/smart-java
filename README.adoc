@@ -28,5 +28,7 @@ Smart Java致力于总结与Java开发相关的技术深度的探索。
 
 ## MySQL
 
+## 算法与数据结构
+
 ## 写在最后
 If you don't think, it's useless.(你不思考，就废了。)
