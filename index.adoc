@@ -1,0 +1,14 @@
+# Smart Java
+
+:stem: latexmath
+:icons: font
+:source-highlighter: coderay
+:sectnums:
+:sectlinks:
+:sectnumlevels: 4
+:toc: left
+:toc-title: 目录
+:toclevels: 3
+
+## 写在前面
+Smart Java致力于总结与Java开发相关的技术深度的探索。
