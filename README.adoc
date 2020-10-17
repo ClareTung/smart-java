@@ -13,7 +13,7 @@
 Smart Java致力于总结与Java开发相关的技术深度的探索。
 
 ## 面试题
-* link:interview/2020.html[面试题（2020年）]
+* link:interview/2020.adoc[面试题（2020年）]
 
 ## Java基础
 
@@ -31,7 +31,7 @@ Smart Java致力于总结与Java开发相关的技术深度的探索。
 
 ## MySQL
 
-* link:MySQL/Explain.html[Explain]
+* link:MySQL/Explain.adoc[Explain]
 
 ## 算法与数据结构
 
